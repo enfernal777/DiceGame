@@ -15,3 +15,6 @@ Python or Python3 -Link
     pip library installation: `numpy` , `matplotlib ` ,`scipy`
 An IDE eg: VS code
 A machine :V
+
+## Disclaimer
+The python coding is made with the help of ChatGPT and blackbox
